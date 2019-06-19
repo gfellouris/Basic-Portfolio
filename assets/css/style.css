@@ -92,5 +92,5 @@ mainContent {
 
   /* selected link */
   a:active {
-    color: blue;
+    color: teal;
   }
